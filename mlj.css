@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(189, 243, 102);
+    /* margin: 50px; */
+    padding: 50px;
+}
+h1{
+    padding: 25px;
+    text-align: center;
+    color:rgb(20, 20, 221);
+}
+p{
+    padding: 15px;
+}
+ul, ol{
+    padding: 10px;
+}
+.image{
+    width: 300px;
+    height: 150px;
+    padding: 15px;
+    margin: 15px;
+    border: 15px red;
+    /* border: ; */
+}
+.image2{
+    width: 300px;
+    height: 150px;
+    padding: 15px;
+    margin: 15px;
+    border: 15px red;
+    /* border: ; */
+}
+/* .div1{
+    padding: 50px;
+
+} */
+a{
+    margin: 20px;
+}
+.ancho{
+    background-color: rgb(154, 227, 230);
+    font-size: large;
+}
